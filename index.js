@@ -12,3 +12,6 @@ function Mouse(){
 }
 
 
+function Dog(){
+
+}
